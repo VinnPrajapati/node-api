@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "this is api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinnPrajapati/node-api.git"
+  },
+  "keywords": [
+    "vinn"
+  ],
+  "author": "vinnn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinnPrajapati/node-api/issues"
+  },
+  "homepage": "https://github.com/VinnPrajapati/node-api#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
